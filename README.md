@@ -2,7 +2,7 @@
 
 A focus timer for [Caelestia](https://github.com/caelestia-dots/shell) (Quickshell / Hyprland) where the hover popout **is** the timer: a liquid chamber that fills as you focus. Anything the liquid covers flips to a contrasting color, so the time stays readable while it's submerged.
 
-<!-- add a screenshot or gif here, e.g. ![preview](docs/preview.png) -->
+![preview](docs/preview.png)
 
 ## Features
 
