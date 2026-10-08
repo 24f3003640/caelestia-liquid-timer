@@ -34,7 +34,7 @@ The installer copies `/etc/xdg/quickshell/caelestia` to `~/.config/quickshell/ca
 
 ```
 # hyprland
-bind = SUPER, T, exec, qs -c caelestia ipc call focusTimer toggle
+bind = SUPER ALT, T, exec, qs -c caelestia ipc call focusTimer toggle
 ```
 
 IPC calls: `toggle` (start / pause / resume), `start`, `reset`.
